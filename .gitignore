@@ -1,7 +1,9 @@
 #Adding config.py file. 
 config.py 
 #Adding additional files. 
-random_numbers.ipynb_checkpointsS
+random-numbers-checkpoint.ipynb
+random-numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
